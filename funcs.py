@@ -3,12 +3,6 @@ def foo():
     print(a)
 
 
-foo()
-
-
 def too():
     b = 2 - 1
     print(b)
-
-
-too()
